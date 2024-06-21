@@ -24,7 +24,7 @@ body {
     font-size: 16px;
 }
 
-.ovelha-imagem{
+.escola-imagem{
     width: 10%;
     padding: 15%;
 }
@@ -38,19 +38,19 @@ body {
     padding: 24px 0;
 }
 
-.ovelhas-div-conteudo{
+.escola-div-conteudo{
     width: 35%;
 }
 
 
-.ovelhas-titulo{
+.escola-titulo{
     padding: 24px 0;
 }
 
 .estudante{
     padding: 24px 0;
 }
-.ovelha-imagem{
+.estudante-imagem{
     width: 120px;
 }
 
